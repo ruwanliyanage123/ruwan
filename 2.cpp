@@ -144,6 +144,17 @@ void mattix(int n, int m){
 
         cout<< "\n";
 
+        }cout << "\n";
+        //print tab
+        for(i=0;i<u;i++){
+            for(j=0;j<v;j++){
+                cout<< tab[i][j] <<" ";
+        }
+        cout<<"\n";
+        }
+
+        cout<< "\n";
+
         }
 
 
