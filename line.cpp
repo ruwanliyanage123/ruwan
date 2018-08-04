@@ -94,4 +94,22 @@ int main(){
 	}*/
 	
 	ans(n,m);
+}int main(){
+	int n,m;
+	/*float A[m][n],b[m],c[n];
+	cin >> m;
+	cin >> n;
+	for(int i=0;i<m;i++){
+		for(int j=0;j<n;j++){
+			cin >> A[i][j];
+		}
+	}
+	for(int k=0;k<m;k++){
+		cin >> b[k];
+	}
+	for(int l=0;l<n;l++){
+		cin >> c[l];
+	}*/
+	
+	ans(n,m);
 }
