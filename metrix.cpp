@@ -20,6 +20,8 @@ void calculateLast(string p){
 
 int last(char k){
     return ar[k];
+}int last(char k){
+    return ar[k];
 }
 
 void boyarMoore(string t,string p){
