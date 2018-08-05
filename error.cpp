@@ -15,6 +15,8 @@ void ans(int n,int m){
 	}
 	for(int k=0;k<m;k++){
 		cin >> b[k];
+	}for(int k=0;k<m;k++){
+		cin >> b[k];
 	}
 	for(int l=0;l<n;l++){
 		cin >> c[l];
