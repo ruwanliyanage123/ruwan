@@ -159,6 +159,9 @@ void mattix(int n, int m){
     for(j=0;j<n;j++){
         bool isBasis=true;
         int cou=0;
+        int raw;for(j=0;j<n;j++){
+        bool isBasis=true;
+        int cou=0;
         int raw;
 
         for(i=0;i<m+1;i++){
