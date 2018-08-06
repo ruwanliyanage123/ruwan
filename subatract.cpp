@@ -195,6 +195,8 @@ void mattix(int n, int m){
     cout<< "Variable values: " <<endl;
     for(i=0;i<n;i++){
         cout<< " " <<"x["<<i<<"] : "<< x[i] <<endl;
+    }for(i=0;i<n;i++){
+        cout<< " " <<"x["<<i<<"] : "<< x[i] <<endl;
     }
 
 
